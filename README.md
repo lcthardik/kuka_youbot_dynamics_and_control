@@ -8,8 +8,8 @@ This repository contains MATLAB and Simulink files for modeling and controlling 
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/5DOF_Manipulator.git
-    cd 5DOF_Manipulator
+    git clone https://github.com/lcthardik/kuka_youbot_dynamics_and_control.git
+    cd kuka_youbot_dynamics_and_control
     ```
 
 2. **Open the Simulink File**
