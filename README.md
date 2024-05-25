@@ -14,7 +14,8 @@ This repository contains MATLAB and Simulink files for modeling and controlling 
 
 2. **Open the Simulink File**
     - Launch MATLAB.
-    - Open the Simulink file `manipulator_simulink_model.slx`.
+    - Open the Simulink file.
+    - Run it
 
 3. **Run the Simulation**
     - In Simulink, click the "Run" button to start the simulation.
